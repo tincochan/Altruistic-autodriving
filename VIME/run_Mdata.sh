@@ -1,0 +1,1 @@
+python3 run_VIME.py --data real-m --sampling xgb --train_from 20130101 --test_from 20160101 --test_length 365 --valid_length 90 --initial_inspection_rate 5 --dim 256
